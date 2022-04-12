@@ -1,4 +1,4 @@
-# Image-_Classification
+# Image_Classification
 By the help of Pandas, Matplotlib, OpenCV we made a model for those classify the images.
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
